@@ -1,3 +1,8 @@
+非常事態用 物品管理リスト 要件定義データベース詳細
+![非常事態用 要件定義1から11まで](https://user-images.githubusercontent.com/92624621/142200064-cc423916-c108-47d6-9cb1-ebb7827976a4.png)
+![非常事態用 要件定義12から14まで データベース詳細](https://user-images.githubusercontent.com/92624621/142200116-78c11251-5f83-4db0-ba52-5e51eef3907b.png)
+
+
 初回アクセス時
 ![ポートフォリオgoods_management 初回アクセス](https://user-images.githubusercontent.com/92624621/142195845-bf135ab7-55e0-449d-a32f-784590b32b39.png)
 
